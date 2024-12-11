@@ -1,5 +1,3 @@
-import '@/assets/reset.scss'
-import '@/assets/fonts.scss'
 import '@/assets/main.scss'
 import 'vuetify/styles'
 

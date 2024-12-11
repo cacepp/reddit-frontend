@@ -1,3 +1,10 @@
+@use "reset.scss";
+@use "fonts.scss";
+
+:root {
+  --primary-color: #0d1113;
+}
+
 body {
-  background-color: #0d1113;
+  background-color: var(--primary-color);
 }
